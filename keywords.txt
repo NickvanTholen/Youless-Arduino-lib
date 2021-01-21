@@ -1,0 +1,18 @@
+# Syntax Coloring Map for YoulessMonitor
+
+# Classes
+YoulessMonitor	KEYWORD1
+
+# Methods and Functions
+getBasicStatus	KEYWORD2
+readCounter	KEYWORD2
+readPower	KEYWORD2
+readConnectionStatus	KEYWORD2
+getUploadedValues	KEYWORD2
+readConsumptionCounter	KEYWORD2
+readProductionCounter	KEYWORD2
+readGasCounter	KEYWORD2
+
+# Constants
+WIRELESS	LITERAL1
+WIRED	LITERAL1
