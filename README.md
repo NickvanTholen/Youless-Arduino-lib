@@ -124,4 +124,4 @@ Please make sure to update tests as appropriate.
 
 ## LICENSE
 
-[MIT](../blob/master/LICENSE)
+[MIT](../master/LICENSE)
